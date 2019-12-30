@@ -1,4 +1,6 @@
-# PHP-Project-3-Sports-Order-Form-User-input-processing-and-output-in-PHP
+# PHP-Project-3
+
+Sports-Order-Form-User-input-processing-and-output-in-PHP
 
 Personal details form
 
